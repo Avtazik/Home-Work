@@ -49,26 +49,6 @@ _____QA/QC/testing
 выполнению этих тестов и анализу полученных данных.
 
 
-_______Позиции в Айти
-Руководитель проекта (ProjectManager)
-Product Owner
-Scrum Master
-Архитектор (Solution Architecter)
-Team Lead
-Разработчик (Developer)
-Мануальный Тестировщик (QA/Test Engineer)
-Автоматизатор (AQA / SDET)
-Бизнес аналитик (Business Analyst)
-DevOPS
-UI/UX Designer
-CисАдмин
-
-______для поиска работы зарегистрироваться нужно тут
-
-https://www.linkedin.com/
-
-и добавить 1000+ HR, Recruiter, Trainee QA etc. 
-
 
 
 
